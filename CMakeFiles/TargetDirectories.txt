@@ -1,0 +1,3 @@
+/home/discopse/git/HTTP_IN_C/CMakeFiles/build.out.dir
+/home/discopse/git/HTTP_IN_C/CMakeFiles/edit_cache.dir
+/home/discopse/git/HTTP_IN_C/CMakeFiles/rebuild_cache.dir
